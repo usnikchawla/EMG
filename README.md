@@ -9,5 +9,4 @@ consisted of 1st order high pass Chebyshev filter followed by a second order low
 high pass filter while the low pass filter had a unity gain. The filter block was preceded by an INA-129 providing a gain of about 5 . The electrode were
 connected to the to INA through a three pin header.
 
-
-The pdf contains the  schematic for the system with LPC2142 chip and an FTDI chip. For the above discription the analog block design was used and its outpit was connected to the analog in pin of UNO through which the signal were plotted on LabView. Remember to keep the digital and analog ground seperate as in the pdf. 
+- The pdf contains the  schematic for the system with LPC2142 chip and an FTDI chip. For the above discription the analog block design was used and its outpit was connected to the analog in pin of UNO through which the signal were plotted on LabView. Remember to keep the digital and analog ground seperate as in the pdf. 
